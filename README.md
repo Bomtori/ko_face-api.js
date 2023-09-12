@@ -30,9 +30,9 @@ Visual Studio Code
 확장 Live Server `5.7.9`
 
 ## 사용언어
-JavaScript
-CSS
-HTML
+- JavaScript
+- CSS
+- HTML
 
 
 
